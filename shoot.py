@@ -5,7 +5,7 @@ from pgzero import actor
 
 TIME_INTERVAL = 3.0
 REPOSITION_INTERVAL = 0.1
-POINTS_TIME_RATE = 0.2
+POINTS_TIME_RATE = .02
 scoreTemplate = "I need a {fruit}, your score is {hits} hits"
 
 # define fruit actors
